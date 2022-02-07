@@ -1,0 +1,2 @@
+# computational_musicology
+computational musicology course
